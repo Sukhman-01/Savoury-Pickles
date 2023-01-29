@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Savoury-Pickles/static/css/main.83aac0f8.css",
+    "main.js": "/Savoury-Pickles/static/js/main.45dbb99e.js",
+    "static/media/ginger.png": "/Savoury-Pickles/static/media/ginger.d21c7e81ada8607a7e68.png",
+    "static/media/bael.png": "/Savoury-Pickles/static/media/bael.0108877bbdb2dface155.png",
+    "static/media/carrot.png": "/Savoury-Pickles/static/media/carrot.565ec6c5a69e45b61078.png",
+    "static/media/red green chilli.png": "/Savoury-Pickles/static/media/red green chilli.92623d7b6adc3601a29f.png",
+    "static/media/karanda.png": "/Savoury-Pickles/static/media/karanda.04d83ca4463981696347.png",
+    "static/media/mango.png": "/Savoury-Pickles/static/media/mango.a719b0d6812e524c5aa4.png",
+    "static/media/amla.png": "/Savoury-Pickles/static/media/amla.2fdb0f4eea20c1aa4e79.png",
+    "static/media/tomato.png": "/Savoury-Pickles/static/media/tomato.43dda155c9912b2921a3.png",
+    "static/media/logo.png": "/Savoury-Pickles/static/media/logo.d8d63b1698ff0bd84a0a.png",
+    "static/media/lemon.png": "/Savoury-Pickles/static/media/lemon.63359234747ee91f6a56.png",
+    "static/media/garlic.png": "/Savoury-Pickles/static/media/garlic.c69bc42069edcfb17e23.png",
+    "index.html": "/Savoury-Pickles/index.html",
+    "main.83aac0f8.css.map": "/Savoury-Pickles/static/css/main.83aac0f8.css.map",
+    "main.45dbb99e.js.map": "/Savoury-Pickles/static/js/main.45dbb99e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83aac0f8.css",
+    "static/js/main.45dbb99e.js"
+  ]
+}
